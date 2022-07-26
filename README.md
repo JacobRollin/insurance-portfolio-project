@@ -1,4 +1,4 @@
-# US Medical Insuraance Portfolio Project
+# US Medical Insurance Portfolio Project
 US Medical Insurance portfolio project from Codecademy's Data Analyst career path
 ## Goals
 The goals of this project are outlined in the notebook file in the repository as well, but here they are briefly:
