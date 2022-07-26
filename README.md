@@ -7,4 +7,4 @@ The goals of this project are outlined in the notebook file in the repository as
 * Complete a project to be used for portfolio purposes in the future
 ***
 The project can be found by opening the .ipynb file.  
-As of right now, this project is complete. I may add more to it in the future but for now, it will remain as is.
+The most recent commit changed all of the code to be more concise and easy to read. Redundant code was changed and more pandas built-in functions were utlized.
